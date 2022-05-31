@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hello Git by Insight");
         System.out.println("hello Git2 by Insight");
         System.out.println("hello Git3 by Insight");
+        System.out.println("hello Git4 by Insight int hot fix");
     }
 }
